@@ -9,4 +9,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 Using mark-up created 6 headings from highest to lowest level, added an image depicting a poinsetta from bing, added one line of code.
