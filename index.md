@@ -1,3 +1,4 @@
+Adds a new feature, fixes AB#385
 # Hello
 ## Hello My
 ### Hello My Name
